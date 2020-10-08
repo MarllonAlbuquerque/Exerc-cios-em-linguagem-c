@@ -1,6 +1,6 @@
-//PalÌndromo È a frase ou palavra que se pode ler, indiferentemente, da esquerda para a direita ou vice-versa, como por exemplo a palavra ARARA ou o nome ANA.
-//Escreva um programa que receba do usu·rio um texto e informe se È palÌndromo ou n„o.
-//Desconsidere caracteres em maÌusculo, por exemplo, o nome Ana deve ser identificado como palÌndromo.
+//Pal√≠ndromo √© a frase ou palavra que se pode ler, indiferentemente, da esquerda para a direita ou vice-versa, como por exemplo a palavra ARARA ou o nome ANA.
+//Escreva um programa que receba do usu√°rio um texto e informe se √© pal√≠ndromo ou n√£o.
+//Desconsidere caracteres em ma√≠usculo, por exemplo, o nome Ana deve ser identificado como pal√≠ndromo.
 
 #include <stdio.h>
 
