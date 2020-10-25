@@ -1,11 +1,11 @@
 /*
-Escreva um trecho de código em C para fazer a criação dos novos tipos de dados conforme solicitado abaixo:
+Escreva um trecho de cÃ³digo em C para fazer a criaÃ§Ã£o dos novos tipos de dados conforme solicitado abaixo:
 
-Horário: composto de hora, minutos e segundos.
+HorÃ¡rio: composto de hora, minutos e segundos.
 
-Data: composto de dia, mês e ano.
+Data: composto de dia, mÃªs e ano.
 
-Compromisso: composto de uma data, horário e texto que descreve o compromisso.
+Compromisso: composto de uma data, horÃ¡rio e texto que descreve o compromisso.
 */
 #include <stdio.h>
 
