@@ -23,10 +23,10 @@ int main(){
 	printf("Crie sua senha : ");
 	scanf("%d",&conta.senha);
 	senhateste = conta.senha;
-	printf("Crie seu número da conta : ");
+	printf("Crie seu nÃºmero da conta : ");
 	scanf("%d",&conta.numeroconta);
 	numteste = conta.numeroconta;
-	printf("Crie seu número da chave : ");
+	printf("Crie seu nÃºmero da chave : ");
 	scanf("%d",&conta.chave);
 	chaveteste = conta.chave;
 	
@@ -38,7 +38,7 @@ int main(){
 			
         case 2 :
         	printf("\n-----Consulta-----\n");
-			printf("Digite o número da conta : ");
+			printf("Digite o nÃºmero da conta : ");
 			scanf("%d",&numteste);
 			printf("Digite a senha : ");
 			scanf("%d",&senhateste);
